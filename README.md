@@ -15,7 +15,7 @@
 1. Клонируйте репозиторий на свой локальный компьютер:
 
     ```
-    git clone https://github.com/your_username/blackjack-telegram-bot.git
+    git clone https://github.com/Fleksozavr/blackjack-telegram-bot.git
     ```
 2. Перейдите в каталог проекта:
 
