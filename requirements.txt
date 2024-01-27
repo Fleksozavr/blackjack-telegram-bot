@@ -1,0 +1,3 @@
+telebot==3.8.0
+requests==2.26.0
+python-dotenv==0.19.1
